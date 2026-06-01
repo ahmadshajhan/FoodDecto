@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+
+# TensorFlow
+checkpoint
+*.ckpt
+
+# Model Files
+trained_models/
+runs/
+weights/
+
+# YOLO Outputs
+runs/detect/
+runs/train/
+
+# Dataset
+dataset/
+
+# Images
+results/
+predictions/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# SQLite
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Coverage
+.coverage
+htmlcov/
+
+# Node Modules (if frontend added later)
+node_modules/
